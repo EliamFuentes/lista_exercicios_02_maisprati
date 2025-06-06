@@ -8,10 +8,9 @@ O projeto contém 9 exercícios feito em JavaScript.
 
 Clone este repositório:
 
-    ```bash
+
     git clone https://github.com/EliamFuentes/lista_exercicios_01_maisprati.git
     cd seu-repositorio
-    ```
 
 ## ▶️ Como executar os exercícios
 
